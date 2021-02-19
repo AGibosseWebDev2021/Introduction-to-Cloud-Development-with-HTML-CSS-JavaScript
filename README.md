@@ -1,1 +1,1 @@
-# Simple Interesr Calculator
+# Simple Interest Calculator
